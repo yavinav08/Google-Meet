@@ -4,15 +4,15 @@ This project is a Video Conferencing and Chat application built to achieve effor
 
 
 
-<img src="google-meet-icon.png" alt="drawing" width="300"/>
+<img src="/screenshots/google-meet-icon.png" alt="drawing" width="300"/>
 
 ## Home Page
 
-<img src="HomePage.png" alt="drawing" width="750"/>
+<img src="/screenshots/HomePage.png" alt="drawing" width="750"/>
 
 ## Room Page
 
-<img src="ChatPage.png" alt="drawing" width="750"/>
+<img src="/screenshots/ChatPage.png" alt="drawing" width="750"/>
 
 
 
