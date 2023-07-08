@@ -1,6 +1,21 @@
  # Google Meet
 
-This project can be described as "a video meeting experience with one goal: make joining meetings effortless". We connect people through frictionless video, voice, chat, and content sharing and enable face-to-face video experiences for thousands of people in a single meeting across disparate devices and locations.
+This project is a Video Conferencing and Chat application built to achieve effortless video calls and meetings. We connect people through smooth video, voice, chat, file sharing, screen recording and enable face-to-face video experiences for people in a single meeting across devices and locations.
+
+
+
+<img src="google-meet-icon.png" alt="drawing" width="300"/>
+
+## Home Page
+
+<img src="HomePage.png" alt="drawing" width="750"/>
+
+## Room Page
+
+<img src="ChatPage.png" alt="drawing" width="750"/>
+
+
+
 
 
 ## Features
@@ -11,6 +26,7 @@ This project can be described as "a video meeting experience with one goal: make
 - Present your screen to participants
 - Start Screen Recording
 - Share Files via chat
+
 
 ## Run Locally
 
